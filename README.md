@@ -2,7 +2,7 @@
 
 >Notepad++ custom color theme 
 
-![Minty Monokai Example](./minty-monokai-example.png)
+![Minty Monokai Example](./minty-monokai-example.PNG)
 
 A dark Mint version of Monokai.
 Supported languages: C, C++, CSS, HTML, JavaScript, JSON, Lua, Python, XML
